@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> 2303 </title>
+<h1> Some memes <h1>
+</head>
+<heading> heading </heading>
+<body>
+<p> default memes <br> for teacher </p>
+<p> yep </p>
+<img src="meme.png" width="228" height="228">
+<a href="https://vm.tiktok.com/ZM6HxF7sR/"> tiktok </a>
+<button> button </button>
+</body>
+</html>
